@@ -3,7 +3,7 @@ cao= int(input("Nhap chieu cao"))
 
 cao = caom/10
 
-bmi = can/caom **2
+bmi = can/(caom **2)
 
 if bmi < 16:
     print ("Thiếu cân trầm trọng")
