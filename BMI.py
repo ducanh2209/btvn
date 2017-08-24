@@ -1,7 +1,7 @@
 can= int(input("Nhap can nang"))
 cao= int(input("Nhap chieu cao"))
 
-cao = caom/10
+cao = caom/100
 
 bmi = can/(caom **2)
 
